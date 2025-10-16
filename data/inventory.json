@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1760613097756,
+      "name": "Compass",
+      "quantity": 0,
+      "purchasePrice": 100,
+      "sellingPrice": 110,
+      "soldQuantity": 20,
+      "createdAt": "2025-10-16T11:11:37.756Z"
+    },
+    {
+      "id": 1760613133102,
+      "name": "dictionary",
+      "quantity": 20,
+      "purchasePrice": 50,
+      "sellingPrice": 55,
+      "soldQuantity": 0,
+      "createdAt": "2025-10-16T11:12:13.102Z"
+    }
+  ],
+  "totalRevenue": 2200
+}
